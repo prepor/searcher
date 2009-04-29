@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "searcher"
-  s.version  = "1.0"
+  s.version  = "1.0.1"
   s.date     = "2009-04-29"
   s.summary  = "Tool for parse http_referrers from search engines."
   s.email    = "cep@prepor.ru"
