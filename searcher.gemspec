@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.authors  = "Andrew Rudenko"
   s.files    = [
     "README.md",
-    "lib/searcher.rb",
-    "Rakefile"
+    "lib/searcher.rb"
     ]
 end
